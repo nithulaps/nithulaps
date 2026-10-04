@@ -3,7 +3,7 @@
 **QA Automation** and **Python Web Scraping**.
 - 🛠 Tech
 
-Python · Scrapy · Playwright Automation · JavaScript · SQL · Pandas · Git
+&nbsp;&nbsp;Python · Scrapy · Playwright Automation · JavaScript · SQL · Pandas · Git
 - 📫 You can reach me on nithulaps@gmail.com
 
 <!---
